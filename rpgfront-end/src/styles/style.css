@@ -1,7 +1,12 @@
-.parent {
+/* .parent {
     display: grid;
     grid-template: auto 1fr auto / auto 1fr auto;
-  }
+  } */
+
+.parent {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
   
 .menu {
     padding: 2rem;
