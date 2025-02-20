@@ -1,4 +1,20 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "casesensitive",
+        "dists",
+        "Itemtype",
+        "mvnd",
+        "MVNW",
+        "noprofile",
+        "projectlombok",
+        "PSHOME",
+        "PSMODULEP",
+        "REPOURL",
+        "Scriptblock",
+        "springframework",
+        "usebackq",
+        "webclient"
+    ]
 }
