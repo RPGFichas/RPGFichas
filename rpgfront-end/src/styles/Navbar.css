@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+.navbar-item {
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+.navbar-item:hover {
+    background-color: #555;
+  }
+  
